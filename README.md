@@ -1,2 +1,2 @@
-# ts-ga
+# TS-GA
 Typescript Genetic Algorithm
