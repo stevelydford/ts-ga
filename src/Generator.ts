@@ -1,5 +1,5 @@
-import { Population } from './Population';
 import { IOutputter } from './IOuputter';
+import { Population } from './Population';
 
 export class Generator {
     public generate(outputter: IOutputter): void {
